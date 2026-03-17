@@ -22,6 +22,9 @@
 - 🔧 Git & GitHub  
 
 ---
+##  Contributions
+
+![snake](https://github.com/Seearun20/Seearun20/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Seearun20&show_icons=true&theme=tokyonight)
