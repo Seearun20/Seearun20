@@ -1,13 +1,13 @@
 # Hi 👋 I'm Arun Kumar
 
-🎓 B.Tech IT @ IIITA  
-💻 Backend Developer | Problem Solver  
+🎓Pre-Final Year Btech(IT) Student @ IIITA 
+💻 Full Stack Developer | Problem Solver  
 🚀 Passionate about scalable systems & APIs  
 
 ---
 
 ## 🚀 About Me
-- 🔧 Building backend projects (FastAPI, Node.js)
+- 🔧 Building FullStack, Backend projects (FastAPI, Node.js,Mern)
 - 📚 Learning System Design & DSA
 - 🧠 Exploring Machine Learning
 - 🎯 Goal: Crack top tech companies
@@ -36,5 +36,5 @@
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: (Add your link)
-- Email: (Add your email)
+- LinkedIn: ((https://www.linkedin.com/in/arun-kumar-500a0b288/))
+- Email: (seearun20@gmail.com)
